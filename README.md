@@ -42,11 +42,3 @@
 * **性能度量 (Performance Metrics):**
     * 主要关注算法核心逻辑的执行时间，使用C语言的 `clock()` 函数测量，单位为毫秒 (ms)。
     * 输出结果包括最大价值、选中物品的详细信息（编号、重量、价值）、选中物品的总重量。
-
-## 4. 项目文件结构 (Project File Structure)
-
-.├── brute_force.c             // 蛮力法实现 (示例文件名)├── dynamic_programming.c     // 动态规划法实现 (示例文件名)├── greedy_algorithm.c        // 贪心法实现 (示例文件名)├── backtracking.c            // 回溯法实现 (示例文件名)├── main.c                    // 主程序，用于调用各算法并管理测试流程 (或者每个算法文件包含自己的main)├── items_n1000_for_report.csv // 实验报告中要求的1000个物品的数据示例├── results.csv               // 完整的实验原始数据记录├── 学号-姓名-实验报告.docx   // 实验报告文档├── 学号-姓名-代码.c          // (可能是合并后的代码文件或指代以上各.c文件)├── 学号-姓名-数据.xlsx       // 实验数据Excel汇总文件└── README.md                 // 本说明文件*(请根据您的实际文件组织情况调整此结构)*
-
-## 5. 编译与运行 (Compilation and Execution)
-
-### 5.1 编译 (Compilation)
