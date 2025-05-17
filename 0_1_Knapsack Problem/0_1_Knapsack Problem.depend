@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1747214702 source:d:\desktop\算法设计与分析\2025_spring_algorithmdesignandanalysis_01knapsackproblem\0_1_knapsack problem\src\brute_force_knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1747214857 source:d:\desktop\算法设计与分析\2025_spring_algorithmdesignandanalysis_01knapsackproblem\0_1_knapsack problem\src\dynamic_programming_knapsack.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+
